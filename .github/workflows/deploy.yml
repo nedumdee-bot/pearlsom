@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - claude/pearlsom-website-tm2clb
   workflow_dispatch:
 
 permissions:
